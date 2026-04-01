@@ -1,2 +1,4 @@
-# sitemap-parser-bundle
-Split from survos/mono (bu/sitemap-parser-bundle)
+# SitemapParserBundle
+
+A wrapper around vipnytt/sitemapparser
+
