@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 /** generated from /home/tac/ca/survos/packages/maker-bundle/templates/skeleton/bundle/src/Bundle.tpl.php */
 
 namespace Survos\SitemapParserBundle;
